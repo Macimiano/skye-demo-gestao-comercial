@@ -1,5 +1,11 @@
 SKYE DEMO DE GESTÃO COMERCIAL
 
+ENDEREÇO PÚBLICO
+https://macimiano.github.io/skye-demo-gestao-comercial/
+
+REPOSITÓRIO
+https://github.com/Macimiano/skye-demo-gestao-comercial
+
 COMO ABRIR
 1. Extraia toda a pasta, se estiver usando o arquivo ZIP.
 2. Abra index.html no Google Chrome ou Microsoft Edge.
