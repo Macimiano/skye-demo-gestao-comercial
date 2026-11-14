@@ -1,0 +1,48 @@
+SKYE DEMO DE GESTÃO COMERCIAL
+
+COMO ABRIR
+1. Extraia toda a pasta, se estiver usando o arquivo ZIP.
+2. Abra index.html no Google Chrome ou Microsoft Edge.
+3. A demonstração inicia diretamente, sem login e sem servidor.
+
+O QUE PODE SER DEMONSTRADO
+- painel de pedidos com etapas operacionais e indicadores;
+- criação, detalhamento, avanço e cancelamento de pedidos fictícios;
+- venda por tamanho, peso ou valor informado pela balança;
+- pagamentos simples ou divididos;
+- clientes, pesquisa, cadastro e edição;
+- cardápio, produtos, adicionais e preços;
+- estoque, movimentos e fichas técnicas;
+- contas a pagar e receber;
+- relatório de vendas com filtros;
+- modelos de mensagens em modo de simulação local;
+- usuários e perfis de acesso demonstrativos;
+- configurações fictícias da operação;
+- impressão de comanda sem valor fiscal;
+- restauração completa dos exemplos.
+
+DADOS E PRIVACIDADE
+Todos os nomes, telefones, endereços, fornecedores, contas e pedidos são fictícios.
+A demonstração não possui banco de dados, backend, login real ou integração ativa.
+As alterações ficam somente no armazenamento local do navegador.
+Nenhuma informação é enviada para a internet.
+
+RESTAURAR A DEMONSTRAÇÃO
+Use o botão “Restaurar exemplos”, disponível no topo e no rodapé do menu lateral.
+Isso apaga somente as alterações locais desta demonstração e recupera o cenário inicial.
+
+COMPARTILHAMENTO
+Envie a pasta completa ou o arquivo ZIP. Não envie somente index.html, pois os arquivos
+style.css, config.js e app.js precisam permanecer ao lado dele.
+
+REUTILIZAR PARA OUTRA APRESENTAÇÃO
+1. Duplique a pasta completa.
+2. Abra config.js em um editor de texto.
+3. Altere companyName, businessLabel, city, address, storageKey e as cores.
+4. Use uma storageKey diferente para cada demonstração publicada.
+5. Mantenha exclusivamente dados fictícios e nunca coloque informações sigilosas no arquivo.
+
+OBSERVAÇÃO
+Os módulos de canais externos, balança e mensagens representam fluxos existentes no
+sistema de referência, mas nesta versão são inteiramente simulados e não se conectam
+a serviços, dispositivos ou plataformas reais.
